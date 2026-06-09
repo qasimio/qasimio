@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Muhammad Qasim</h1>
+<h1 align="center">Qasim Sethar</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2E6DA4&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer;Autonomous+Agents+·+RAG+·+Retrieval+Infrastructure" />
