@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-qasimio.me-2E6DA4?style=for-the-badge&logo=firefox&logoColor=white)](https://qasimio.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qasimio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qasimio)
-[![Email](https://img.shields.io/badge/Email-amkassim444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amkassim444@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40qasimio.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@qasimio.me)
 [![Patreon](https://img.shields.io/badge/Patreon-qasimio-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/qasimio)
 
 </div>
